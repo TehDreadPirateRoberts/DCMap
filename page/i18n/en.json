@@ -64,7 +64,7 @@
     "end-loc": "Destination:",
     "paths" : "Paths",
     "delete": "Delete",
-    "no-path": "Could not find path"
+    "no-path": "Could not find path",
     "userData": "User Data",
     "symbol": "Symbol"
 }
