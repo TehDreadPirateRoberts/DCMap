@@ -65,6 +65,6 @@
     "paths" : "Paths",
     "delete": "Delete",
     "no-path": "Could not find path"
-    "userdata": "User Data",
-    "portals": "Portals",
+    "userData": "User Data",
+    "symbol": "Symbol",
 }
